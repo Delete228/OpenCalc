@@ -103,6 +103,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+          //some text
 
     /* USER CODE BEGIN 3 */
   //ILI9341_Fill_Screen(GREEN); // заливка всего экрана цветом (цвета в файле ILI9341_GFX.h)

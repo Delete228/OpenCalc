@@ -1,4 +1,4 @@
-20186084437856690
+20171250584469394
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52059,120 +52059,57 @@ Ferrite vertical LairdTech 28C0236-0JW-10
 2
 2
 Fiducial
-Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom
-Circular Fiducial, 1mm bare copper bottom, 2.54mm keepout
+Fiducial_0.5mm_Mask1.5mm
+Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
 fiducial
 0
 1
 0
 Fiducial
-Fiducial_1mm_Dia_2.54mm_Outer_CopperTop
-Circular Fiducial, 1mm bare copper top, 2.54mm keepout
+Fiducial_0.5mm_Mask1mm
+Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)
 fiducial
 0
 1
 0
 Fiducial
-Fiducial_Modern_CopperBottom
-Fiducial, Modern, Copper Bottom
+Fiducial_0.75mm_Mask1.5mm
+Circular Fiducial, 0.75mm bare copper, 1.5mm soldermask opening (Level B)
 fiducial
 0
 1
 0
 Fiducial
-Fiducial_Modern_CopperTop
-Fiducial, Modern, Copper Top
+Fiducial_0.75mm_Mask2.25mm
+Circular Fiducial, 0.75mm bare copper, 2.25mm soldermask opening
 fiducial
 0
 1
 0
 Fiducial
-Fiducial_Modern_SilkscreenTop
-Fiducial, Modern, Silkscreen Top
+Fiducial_1.5mm_Mask3mm
+Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
 fiducial
 0
 1
 0
 Fiducial
-Fiducial_classic_Small_CopperBottom_Type1
-Fiducial, Classic, Small, Copper Bottom, Type 1
+Fiducial_1.5mm_Mask4.5mm
+Circular Fiducial, 1.5mm bare copper, 4.5mm soldermask opening
 fiducial
 0
 1
 0
 Fiducial
-Fiducial_classic_Small_CopperBottom_Type2
-Fiducial, Classic, Small, Copper Bottom, Type 2
+Fiducial_1mm_Mask2mm
+Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
 fiducial
 0
 1
 0
 Fiducial
-Fiducial_classic_Small_CopperTop_Type1
-Fiducial, Classic, Small, Copper Top, Type 1
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_Small_CopperTop_Type2
-Fiducial, Classic, Small, Copper Top, Type 2
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_Small_SilkscreenTop_Type1
-Fiducial, Classic, Small, Copper Top, Type 1
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_Small_SilkscreenTop_Type2
-Fiducial, Classic, Small, Silkscreen Top, Type 2
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_big_CopperBottom_Type1
-Fiducial, Classic, Big, Copper Bottom, Type 1
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_big_CopperBottom_Type2
-Fiducial, Classic, Big, Copper Bottom, Type 2
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_big_CopperTop_Type1
-Fiducial, Classic, Big, Copper Top, Type 1
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_big_CopperTop_Type2
-Fiducial, Classic, Big, Copper Top, Type 2
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_big_SilkscreenTop_Type1
-Fiducial, Classic, Big, Silkscreen Top, Type 1
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_classic_big_SilkscreenTop_Type2
-Fiducial, Classic, Big, Silkscreen Top, Type 2
+Fiducial_1mm_Mask3mm
+Circular Fiducial, 1mm bare copper, 3mm soldermask opening (recommended)
 fiducial
 0
 1
@@ -85721,7 +85658,7 @@ varistor SIOV
 0
 2
 2
-my_footprints
+my_lib
 btn_8x8
 
 
