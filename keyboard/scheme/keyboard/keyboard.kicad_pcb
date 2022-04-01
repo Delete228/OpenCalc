@@ -1270,8 +1270,15 @@
     )
   )
 
-  (gr_rect (start 119.38 129.54) (end 31.75 82.55) (layer "F.SilkS") (width 0.15) (fill none) (tstamp 39edb57f-0643-46bb-be86-32227f2265f0))
+  (gr_rect (start 119.38 129.54) (end 31.75 82.55) (layer "F.Mask") (width 0.15) (fill none) (tstamp 39edb57f-0643-46bb-be86-32227f2265f0))
+  (gr_text "© delete 2022" (at 109.22 127) (layer "F.Cu") (tstamp 4a20d7cc-a01a-42a2-982b-849d3039b57f)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
+  (via (at 143.51 82.55) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp 274dc4f7-bc14-41ea-95e3-f51167dc52ed))
+  (via (at 6.35 129.54) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp 9302c9bf-0842-4262-8094-0adc605bbb40))
+  (via (at 6.35 82.55) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp a76aeee2-482f-4a35-a462-40f649526119))
+  (via (at 143.51 129.54) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp a964770a-ee0c-45cd-907c-38141790c76f))
   (segment (start 82.085 122.725) (end 79.7775 120.4175) (width 0.375) (layer "F.Cu") (net 3) (tstamp 0031c659-0d07-4eb8-8ec5-29e10e25a97e))
   (segment (start 75.565 120.4175) (end 78.105 120.4175) (width 0.375) (layer "F.Cu") (net 3) (tstamp 1c709ec4-c1be-4e93-a001-a1cedda9b4d5))
   (segment (start 82.55 122.725) (end 85.285 122.725) (width 0.375) (layer "F.Cu") (net 3) (tstamp 30c1c3c2-7c2e-4ec5-baf2-d40a01b96846))
