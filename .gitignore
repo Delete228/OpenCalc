@@ -1,0 +1,11 @@
+**/build
+*.bin
+*.elf
+*.map
+*.o
+*.d
+*.lst
+.vimrc
+ocd_start.sh
+load.sh
+**/scripts/gdb_script
