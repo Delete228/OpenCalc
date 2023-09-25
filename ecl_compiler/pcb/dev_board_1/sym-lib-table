@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "my_lib")(type "KiCad")(uri "/home/delete/stm32/calc/pcb_libs/my_lib.kicad_sym")(options "")(descr ""))
-)
