@@ -1,4 +1,4 @@
-21932771939837029
+21934467662686991
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90726,6 +90726,13 @@ CR2013-MI2120 ILI9341 LCD Breakout
 0
 22
 18
+my_lib
+ili9486_16bit_3.2
+
+
+0
+38
+34
 my_lib
 stm32h734vit6_black_super_pill
 Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
