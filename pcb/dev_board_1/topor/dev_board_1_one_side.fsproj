@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--******************************************-->
+<!--   File    : dev_board_1_one_side.fsproj  -->
+<!--   Format  : TopoR Project file           -->
+<!--   Version : 2                            -->
+<!--   Program : TopoR Lite 7.0.18699         -->
+<!--   Date    : Thursday, September 28, 2023 -->
+<!--   Time    : 10:22                        -->
+<!--******************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{3BD9226F-6333-4785-BBE3-9D43104067B9}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\dev_board_1_one_side.fsx" isopened="0" dateChange="2023-09-27 23:23:08"/>
+         <File path=".\dev_board_1_one_side_1917-71s_1928-67sa_1.fsx" isopened="1" dateChange="2023-09-28 10:22:43"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="true">
+         <File path=".\autoroute_230928011159\dev_board_1_one_side_1917-71s_1928-67sa_1_1888-65sa.fsb" isopened="0" dateChange="2023-09-28 01:15:54"/>
+      </Section>
+   </Documents>
+</Project>
